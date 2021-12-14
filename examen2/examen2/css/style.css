@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100&display=swap');
+
+
+body{
+	
+}
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+#hero{
+	background-image: url("../../../../Documents/examen2raul/img/home-grid-new-slide-4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+	color: #fff;
+	padding: 20% 0;
+	text-align: center;
+    padding-bottom: 30% 0;
+}
+#intro {
+padding: 5% 0;
+}
+
+
+#services {
+text-align: center;
+padding: 5% 0;
+	
+}
+#intro {
+text-align: center;	
+	
+}
+#cta {
+	background-image: url("../../../../Documents/examen2raul/img/home-grid-banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+	padding: 5% 0;
+	text-align: center;
+	
+}
+#clientes {
+	padding: 5% 0;
+}
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+}
